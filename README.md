@@ -59,7 +59,7 @@ print("Intercept:", sgd_model.intercept_)
 ```
 
 ## Output:
-![alt text](Exp-4-Output.PNG)
+![alt text](Exp-4-Output-1.PNG)
 
 ## Result:
 Thus, the implementation of Stochastic Gradient Descent (SGD) Regressor for linear regression has been successfully demonstrated and verified using Python programming.
